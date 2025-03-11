@@ -6,7 +6,7 @@ Realicé una prueba técnica para un puesto de React Junior, con el objetivo de 
 git clone <link del proyecto>
 
 # Ir al directorio del proyecto
-cd proyecto_lista_tareas
+cd 
 
 # Instalar dependencias
 npm install
